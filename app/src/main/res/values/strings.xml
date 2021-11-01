@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">recycle_view</string>
+    <string-array
+        name="arr_province">
+        <string name="HN">Hà Nội</string>
+        <string name="HCM">Hồ Chí Minh</string>
+        <string name="QN">Quảng Nam</string>
+        <string name="QNN">Quảng Ngãi</string>
+        <string name="HNN">Hà Nam</string>
+
+        <string name="BG">Bắc Giang</string>
+        <string name="HG">Hà Giang</string>
+        <string name="CM">Cà Mau</string>
+        <string name="CB">Cao Bằng</string>
+        <string name="LS">Lạng Sơn</string>
+    </string-array>
+
+</resources>
